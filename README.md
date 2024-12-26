@@ -21,14 +21,6 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Ruwan Chamara from Sri Lanka<br><br>- 🔭 I’m working as ....<br>- 📚 I'm currently learning Programing<br>- ⚡ In my free time Play Games</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
